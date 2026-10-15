@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generation_speed": 1.0,
+  "explicit_speed_argument_required": true,
+  "voice": "EkK5I93UQWFDigLMpZcX",
+  "model": "eleven_v4",
+  "language": "nl-NL",
+  "mode": "single",
+  "as_artifact": false,
+  "alignment_must_equal_original_text": true,
+  "normalized_alignment_must_equal_original_text": true,
+  "control_tags_allowed": false,
+  "voice_segments": 1,
+  "playback_speed_adjustment": "Only in the player, preserving pitch when supported.",
+  "unknown_submission_outcome": "Recover existing job; never submit it again.",
+  "successful_generation": "Reuse verified output; never generate it again."
+}
